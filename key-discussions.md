@@ -1,9 +1,3 @@
----
-description: >-
-  Most discussions are happening on GitHub, and occasionally on Slack. This page
-  highlights some key discussions.
----
-
 # Key Discussions
 
 ## GitHub repositories worth watching

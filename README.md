@@ -1,9 +1,3 @@
----
-description: >-
-  Our goal is to develop technical specifications and best practices that
-  support the use of open and shared data about sports and physical activities.
----
-
 # W3C Community
 
 ## About the group
