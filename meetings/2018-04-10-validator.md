@@ -23,9 +23,13 @@ We plan to circulate an draft of the 2.0 specification by end of next week.
 
 If you have opinions about improving consistency of how data is published now is the time to provide feedback.
 
-## Slides!
+## Other slides
 
 {% embed data="{\"url\":\"https://docs.google.com/presentation/d/1M\_Js-CUR57XraG6lZ\_epGkXh8BKJiGT5e6FPAt6sO8A/edit\",\"type\":\"video\",\"title\":\"2018-07-18 OA Community Group Hangout - S02E16 \#OPEN\",\"description\":\"OpenActive Community Group Hangout Improving data quality 2018-07-18\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh3.googleusercontent.com/ZAPL4Oj38Bd\_s6UGEbEv5xgIJl\_uzR60Nt5n-bK9lIh0pvEn1IU47ITJosxTwtW6-0A6Uw=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/1M\_Js-CUR57XraG6lZ\_epGkXh8BKJiGT5e6FPAt6sO8A/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-top: 60%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/1M\_Js-CUR57XraG6lZ\_epGkXh8BKJiGT5e6FPAt6sO8A/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0}}" %}
+
+## Slides!
+
+
 
 ## Video
 
