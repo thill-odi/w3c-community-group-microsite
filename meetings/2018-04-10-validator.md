@@ -29,7 +29,7 @@ If you have opinions about improving consistency of how data is published now is
 
 ## Slides!
 
-
+{% embed data="{"url":"https://docs.google.com/presentation/d/1M\_Js-CUR57XraG6lZ\_epGkXh8BKJiGT5e6FPAt6sO8A/edit\","description":"OpenActive Community Group Hangout Improving data quality 2018-07-18","icon":{"type":"icon","url":"https://gist.github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/2616208?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1},\"embed\":{\"type\":\"reader\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-top: 60%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/1M\_Js-CUR57XraG6lZ\_epGkXh8BKJiGT5e6FPAt6sO8A/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>","aspectRatio":0}}" %}
 
 ## Video
 
