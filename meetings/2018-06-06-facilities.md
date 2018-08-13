@@ -8,7 +8,7 @@ description: >-
 
 ## Summary
 
-With thanks to the great work of Played and Fusion, Fusion facilities data is now live: [https://github.com/fusion-lifestyle/opendata](https://github.com/fusion-lifestyle/opendata) 
+With thanks to the great work of Played and Fusion, Fusion facilities data is now live: [https://github.com/fusion-lifestyle/opendata](https://github.com/fusion-lifestyle/opendata)
 
 It uses a schema described [here](https://github.com/openactive/activation/issues/116), which has been adapted from the [current proposal](https://github.com/openactive/modelling-opportunity-data/issues/62) that is described in the [Editor's Draft](https://www.openactive.io/modelling-opportunity-data/EditorsDraft/#describing-facility-use-code-oa-facilityuse-code-).
 
