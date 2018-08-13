@@ -2,7 +2,7 @@
 description: Routes proposal for inclusion in OpenActive Modelling Opportunity Data 2.0
 ---
 
-# 2018-05-10 - Routes, Model V2
+# 2018-08-01 - Routes, Model V2
 
 ## Summary
 

@@ -6,7 +6,7 @@
 
 ## Meetings
 
-* [2018-05-10 - Routes, Model V2](meetings/2018-05-10-routes-and-v2.md)
+* [2018-08-01 - Routes, Model V2](meetings/2018-08-01-routes-and-v2.md)
 * [2018-07-18 - Validator](meetings/2018-04-10-validator.md)
 * [2018-07-04 - Roadmap](meetings/2018-07-04-roadmap.md)
 * [2018-06-20 - Facilities](meetings/2018-06-20-facilities.md)
