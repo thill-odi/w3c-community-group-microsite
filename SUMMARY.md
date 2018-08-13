@@ -2,6 +2,7 @@
 
 * [W3C Community](README.md)
 * [Join the group](https://www.w3.org/community/openactive/)
+* [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
 
 ## Meetings

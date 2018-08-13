@@ -14,6 +14,8 @@ Click the link below, and click "**JOIN OR LEAVE THIS GROUP**" halfway down the 
 
 Once you have done this be sure to attend our meetings and engage in our GitHub discussions:
 
+{% page-ref page="meeting-calendar.md" %}
+
 {% page-ref page="key-discussions.md" %}
 
 ## Our focus
