@@ -1,13 +1,23 @@
----
-description: This page lists the upcoming meetings of the W3C Community Group
----
-
 # Upcoming Meetings
 
 ## Future Agendas
 
 * 15th August - booking feedback
 * 29th August - final feedback before booking 1.0 & modelling 1.2/2/0 releases
+
+## Meetings Dial-in Details
+
+Join from PC, Mac, Linux, iOS or Android: [https://zoom.us/j/3906833882](https://zoom.us/j/3906833882)
+
+Or iPhone one-tap:
+
+* +442030512874,3906833882\#
+* +442036950088,3906833882\#
+
+Or Telephone: Dial:
+
+* +44 \(0\) 20 3051 2874 Meeting ID: 390 683 3882
+* +44 \(0\) 20 3695 0088 Meeting ID: 390 683 3882
 
 ## Meeting Calendar
 
