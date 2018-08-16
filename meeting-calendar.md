@@ -7,7 +7,9 @@
 
 ## Meetings Dial-in Details
 
-Join from PC, Mac, Linux, iOS or Android: [https://zoom.us/j/3906833882](https://zoom.us/j/3906833882)
+Join from PC, Mac, Linux, iOS or Android:
+
+* [https://zoom.us/j/3906833882](https://zoom.us/j/3906833882)
 
 Or iPhone one-tap:
 
