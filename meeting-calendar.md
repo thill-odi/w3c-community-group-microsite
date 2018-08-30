@@ -2,8 +2,8 @@
 
 ## Future Agendas
 
-* 15th August - booking feedback
-* 29th August - final feedback before booking 1.0 & modelling 1.2/2/0 releases
+* 12th September - final feedback before booking 1.0 & modelling 2.0 releases
+* 26th September - potential discussion on activity lists \(TBC\)
 
 ## Meetings Dial-in Details
 
