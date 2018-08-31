@@ -1,10 +1,10 @@
 ---
 description: >-
-  Modelling types proposed as part of the Modelling Opportunity Data 2.0
-  specification
+  Discussion of the Event types proposed as part of the Modelling Opportunity
+  Data 2.0 specification
 ---
 
-# 2018-08-30 - Modelling Types
+# 2018-08-30 - Modelling Event Types
 
 ## Summary
 

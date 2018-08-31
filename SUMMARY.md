@@ -7,7 +7,7 @@
 
 ## Meetings
 
-* [2018-08-30 - Modelling Types](meetings/2018-08-30-modelling-types.md)
+* [2018-08-30 - Modelling Event Types](meetings/2018-08-30-modelling-event-types.md)
 * [2018-08-15 - Booking](meetings/2018-08-15-booking.md)
 * [2018-08-01 - Routes, Model V2](meetings/2018-08-01-routes-and-v2.md)
 * [2018-07-18 - Validator](meetings/2018-07-18-validator.md)
