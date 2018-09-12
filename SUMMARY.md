@@ -4,7 +4,6 @@
 * [Join the group](https://www.w3.org/community/openactive/)
 * [Upcoming Meetings](meeting-calendar.md)
 * [Key Discussions](key-discussions.md)
-* [Untitled](untitled.md)
 
 ## Meetings
 
