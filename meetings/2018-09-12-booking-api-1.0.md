@@ -43,7 +43,7 @@ We'd like to get this published as a formal community group deliverable in the n
 
 ##  Slides
 
-[https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/edit](https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe_Sl9_JKzg8rNOk/edit?usp=sharing)
+{% embed data="{\"url\":\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/edit\",\"type\":\"video\",\"title\":\"2018-09-12 Community Group Hangout - S02E20 \#PUBLIC\",\"description\":\"W3C Community Group Hangout 2018-09-12\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh5.googleusercontent.com/dTYikTVn-6An7\_HwEpVMLWcgDZZSanbVkJ-nrvDGpmWIg5FsdiFwRn9sgcwzgPlGlXchdQ=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0}}" %}
 
 ##  Video
 
