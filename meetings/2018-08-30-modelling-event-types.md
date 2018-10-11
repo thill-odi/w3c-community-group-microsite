@@ -1,7 +1,5 @@
 ---
-description: >-
-  Discussion of the Event types proposed as part of the Modelling Opportunity
-  Data 2.0 specification
+description: Final feedback before booking 1.0 & modelling 1.2/2/0 releases
 ---
 
 # 2018-08-30 - Modelling Event Types
@@ -51,9 +49,9 @@ To help move this forward please provide feedback on the draft document by 13th 
 
 ## Slides
 
-{% embed data="{\"url\":\"https://docs.google.com/presentation/d/18vtVRu-kvZDjIukv3j-zjI2bQVC8xRDVijsWGjzqZNE/edit?usp=sharing\",\"type\":\"video\",\"title\":\"2018-08-30 Community Group Hangout - S02E19 \#PUBLIC\",\"description\":\"W3C Community Group Hangout 2018-08-30\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh5.googleusercontent.com/eNyq\_4ilqCqU7VJ81GBSFoGlKTeBE4-4Kq0UYxW9w3gbigPWZP4EX-x9Yrxm0V1uoUAuRw=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/18vtVRu-kvZDjIukv3j-zjI2bQVC8xRDVijsWGjzqZNE/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/18vtVRu-kvZDjIukv3j-zjI2bQVC8xRDVijsWGjzqZNE/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.67}}" %}
+{% embed url="https://docs.google.com/presentation/d/18vtVRu-kvZDjIukv3j-zjI2bQVC8xRDVijsWGjzqZNE/edit?usp=sharing" %}
 
 ## Video
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=6sSAYH49D-4\",\"type\":\"video\",\"title\":\"OpenActive W3C Community Group Meeting /2018-08-30\",\"description\":\"OpenActive W3C - 30 August 2018\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/6sSAYH49D-4/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/6sSAYH49D-4?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/6sSAYH49D-4?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=6sSAYH49D-4" %}
 

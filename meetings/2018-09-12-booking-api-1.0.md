@@ -4,7 +4,7 @@ description: 'Initial draft of Booking API 1.0, moving to formal publication'
 
 # 2018-09-12 - Booking API 1.0
 
-##  Summary
+## Summary
 
 We've just published an initial editors draft of the Open Booking API 1.0. The updated document can be found here:
 
@@ -41,11 +41,11 @@ Please review the latest document and file your feedback on github:
 
 We'd like to get this published as a formal community group deliverable in the next 2-3 weeks.
 
-##  Slides
+## Slides
 
-{% embed data="{\"url\":\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/edit\",\"type\":\"video\",\"title\":\"2018-09-12 Community Group Hangout - S02E20 \#PUBLIC\",\"description\":\"W3C Community Group Hangout 2018-09-12\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/presentations/images/favicon4.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh5.googleusercontent.com/dTYikTVn-6An7\_HwEpVMLWcgDZZSanbVkJ-nrvDGpmWIg5FsdiFwRn9sgcwzgPlGlXchdQ=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"player\",\"url\":\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;\\\"><iframe src=\\\"https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.67}}" %}
+{% embed url="https://docs.google.com/presentation/d/1ijrA2aCZOtNTGNIT5o4ZrPmgW0KOe\_Sl9\_JKzg8rNOk/edit" %}
 
-##  Video
+## Video
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=8wZ5LZZTO\_M\",\"type\":\"video\",\"title\":\"OpenActive W3C Community Group Meeting /2018-09-12\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/8wZ5LZZTO\_M/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/8wZ5LZZTO\_M?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/8wZ5LZZTO\_M?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=8wZ5LZZTO\_M" %}
 
