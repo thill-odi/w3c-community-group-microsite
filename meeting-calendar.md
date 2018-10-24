@@ -2,8 +2,8 @@
 
 ## Future Agendas
 
-* 24th October - Continued discussions on [booking API flow](https://github.com/openactive/open-booking-api/issues/66#issuecomment-425679609)
-* 7th November - Handling tax in the booking API
+* 7th November - Continued discussions on [booking API flow](https://github.com/openactive/open-booking-api/issues/66#issuecomment-425679609)
+* 21st November - Handling tax in the booking API
 
 ## Meetings Dial-in Details
 
