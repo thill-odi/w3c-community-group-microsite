@@ -16,19 +16,25 @@ Some people in the group were concerned that data at this level isn’t currentl
 
 ### New suggestions
 
-There are two new suggestions but in the call we focused on the ‘SpecialRequirements’
+There are two new suggestions \(SpecialRequirements & IsWheelchairAccessible\) but in the call we mainly focused on the ‘SpecialRequirements’
 
-#### Queries about the field contents
+#### IsWheelchairAccessible
 
-* There was some confusion as to what these tags actually meant: is this categorisation about being friendly to people with those conditions, or that those activities are targeted to people with those conditions? Are they based on conditions or people’s needs \(e.g. ‘strokes’ have different severity levels\)? Could a more general field of ‘disability aware or friendly’ be easier for an activity provider to tick?
-* Wording: ‘impairments’ may not be very accessible/relevant to people - but it was noted that this may not be what is displayed to a consumer anyway 
-* In general the group thought that it could be useful to be able to give this information if available but:
-  * It would be difficult for an activity provider to determine whether they were friendly to ‘strokes’. OpenActive has previously talked about making questionnaires & guidance to help activity providers standardise, but this hasn’t yet been done, and OpenActive may not be best placed as non-experts. This has led to a situation where some providers tick everything because they want to run an inclusive session and some providers don’t tick anything because they are nervous about making this judgement.
-  * By allowing activity providers to self identify, there are lots of data quality risks, whereas it is possible for someone independent say ‘there is disabled parking space or changing rooms suitable for wheelchair users’ \(see disablego link in slides\).
-  * There are a range of ‘stokes’ too, which lead to a range of cognitive + physical issues. In the options given in the list they seem a varied bag in terms of granularity and types of support someone might need.
-  * There’s a difference between events specifically targeted at someone specific \(maybe for more severe cases\) and events that are friendly towards people with conditions but aren’t aimed at them. It was felt important to be able to tag events if they’re specifically being run for rehabilitation rather than being termed ‘suitable’ for lots of conditions but aimed at the general public.
-  * There’s also a difference between something being physically wheelchair accessible, and really being suitable or pleasant for wheelchair users - so user testing the definitions and guidelines is important.
-  * If someone needs significant extra support they may be with a carer or parent - so it could be most useful to understand whether the person leading the session is disability aware and friendly. This becomes a question customer experience too.
+The group noted that there is difference between something being physically wheelchair accessible, and really being suitable or pleasant for wheelchair users - so user testing the definitions and guidelines is important.
+
+#### SpecialRequirements 
+
+There was some confusion as to what these tags actually meant: should the categorisation be taken to mean that those with the specified condition are welcome, or the activity has to be specifically targeted to that group? Are they based on conditions or people’s needs \(e.g. ‘strokes’ have different severity levels\)? Could a more general field of ‘disability aware or friendly’ be easier for an activity provider to tick?
+
+Wording: ‘impairments’ may not be very accessible/relevant to people - but it was noted that this may not be what is displayed to a consumer anyway 
+
+In general the group thought that it could be useful to be able to give this information if available but:
+
+* It would be difficult for an activity provider to determine whether they were friendly to ‘strokes’. OpenActive has previously talked about making questionnaires & guidance to help activity providers standardise, but this hasn’t yet been done, and OpenActive may not be best placed as non-experts. This has led to a situation where some providers tick everything because they want to run an inclusive session and some providers don’t tick anything because they are nervous about making this judgement.
+* By allowing activity providers to self identify, there are lots of data quality risks, whereas it is possible for someone independent say ‘there is disabled parking space or changing rooms suitable for wheelchair users’ \(see disablego link in slides\).
+* There are a range of ‘stokes’ too, which lead to a range of cognitive + physical issues. In the options given in the list they seem a varied bag in terms of granularity and types of support someone might need.
+* There’s a difference between events specifically targeted at someone specific \(maybe for more severe cases\) and events that are friendly towards people with conditions but aren’t aimed at them. It was felt important to be able to tag events if they’re specifically being run for rehabilitation rather than being termed ‘suitable’ for lots of conditions but aimed at the general public.
+* If someone needs significant extra support they may be with a carer or parent - so it could be most useful to understand whether the person leading the session is disability aware and friendly. This becomes a question customer experience too.
 
 #### Queries about the scope of accessibility requirements
 
@@ -47,7 +53,7 @@ We asked what what other organisations are currently doing:
 
 **Next steps**
 
-1. Izy & Cecilia to touch base with Kirsty & Michelle \(and Activity Alliance\) and work out what might be best re: user testing/consultation with disability groups - and then Izy to feedback to the group.
+1. Izy & Cecilia \(Sport England\) to touch base with Kirsty \(Disability Rights\) & Michelle \(Richmond Group\) as well as Activity Alliance and work out what might be best re: user testing/consultation with disability groups - and then Izy to feedback to the group.
 2. The next call for the subject will be to review the results of that.
 
 ##  **Slides** 
