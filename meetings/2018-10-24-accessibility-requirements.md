@@ -4,7 +4,7 @@ description: >-
   to extend these in the next versions of the specifications
 ---
 
-# 2018-10-24 Accessibility requirements
+# 2018-10-24 - Accessibility requirements
 
 ## **Summary**
 
