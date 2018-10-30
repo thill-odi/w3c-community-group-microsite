@@ -42,18 +42,18 @@ We discussed accessibility/suitability of a particular event vs the accessibilit
 
 #### Queries about the process
 
-It was asked whether the categories and wording been run past people with disabilities and/or there had been a formal consultation? The ODI hasn’t run a consultation, but have worked with organisations such as EFDS who do, and have used wording suggested by them. Disabilities Rights can create focus groups \(which don’t focus on sports, ideal for our aims of getting inactive people active\) and recommend carrying out direct consultation, from the beginning. We think we have enough suggestions and data to be able to test with users. We want to understand whether these are the categories people want and also to understand how inaccurate data is going to affect people’s uptake of activities.
+It was asked whether the categories and wording been run past people with disabilities and/or there had been a formal consultation? The ODI hasn’t run a consultation, but have worked with organisations such as Activity Alliance who do, and have used wording suggested by them. Disabilities Rights can create focus groups \(which don’t focus on sports, ideal for our aims of getting inactive people active\) and recommend carrying out direct consultation, from the beginning. We think we have enough suggestions and data to be able to test with users. We want to understand whether these are the categories people want and also to understand how inaccurate data is going to affect people’s uptake of activities.
 
 It would also be useful to do some testing/research with data providers - how do they react to the number of choices and is it information they are comfortable providing?
 
 We asked what what other organisations are currently doing:
 
-* the BPA have tried to tackle this and find the Paralympic categorisations are too specific in some areas and don’t cover all the areas that consumers want. The existing categorisation looks to be like the level of detail required for their new website, and they are happy to feedback their experience of using the categorisation to support this project.
-* Richmond group support a wide range of conditions. Some of their work is around message testing - could we do this at the same time? They will follow up and see what the call to action could be. They need to think about whether they want to work at the level of detail existing in the spec, or test some of the new proposals.
+* the British Paralympic Association have tried to tackle this and find the Paralympic categorisations are too specific in some areas and don’t cover all the areas that consumers want. The existing categorisation looks to be like the level of detail required for their new website, and they are happy to feedback their experience of using the categorisation to support this project.
+* Richmond Group of Charities support a wide range of conditions. Some of their work is around message testing - could we do this at the same time? They will follow up and see what the call to action could be. They need to think about whether they want to work at the level of detail existing in the spec, or test some of the new proposals.
 
 **Next steps**
 
-1. Izy & Cecilia \(Sport England\) to touch base with Kirsty \(Disability Rights\) & Michelle \(Richmond Group\) as well as Activity Alliance and work out what might be best re: user testing/consultation with disability groups - and then Izy to feedback to the group.
+1. Izy & Cecilia \(Sport England\) to touch base with Kirsty \(Disability Rights\) & Michelle \(Richmond Group of Charities\) as well as Activity Alliance and work out what might be best re: user testing/consultation with disability groups - and then Izy to feedback to the group.
 2. The next call for the subject will be to review the results of that.
 
 ##  **Slides** 
