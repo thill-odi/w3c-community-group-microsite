@@ -34,7 +34,7 @@ In general the group thought that it could be useful to be able to give this inf
 * By allowing activity providers to self identify, there are lots of data quality risks, whereas it is possible for someone independent say ‘there is disabled parking space or changing rooms suitable for wheelchair users’ \(see disablego link in slides\).
 * There are a range of ‘strokes’ too, which lead to a range of cognitive + physical issues. In the options given in the list they seem a varied bag in terms of granularity and types of support someone might need.
 * There’s a difference between events specifically targeted at someone specific \(maybe for more severe cases\) and events that are friendly towards people with conditions but aren’t aimed at them. It was felt important to be able to tag events if they’re specifically being run for rehabilitation rather than being termed ‘suitable’ for lots of conditions but aimed at the general public.
-* If someone needs significant extra support they may be with a carer or parent - so it could be most useful to understand whether the person leading the session is disability aware and friendly. This becomes a question customer experience too.
+* If someone needs significant extra support they may be with a carer - so it could be most useful to understand whether the person leading the session is disability aware and friendly. This becomes a question customer experience too.
 
 #### Queries about the scope of accessibility requirements
 
