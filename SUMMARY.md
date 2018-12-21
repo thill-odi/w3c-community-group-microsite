@@ -7,6 +7,8 @@
 
 ## Meetings
 
+* [2018-12-05 - Booking Feedback](meetings/2018-12-05-booking-feedback.md)
+* [2018-11-21 - Booking: tax issues](meetings/2018-11-21.md)
 * [2018-11-07 - Booking Feedback](meetings/2018-11-07-booking-feedback.md)
 * [2018-10-24 - Accessibility requirements](meetings/2018-10-24-accessibility-requirements.md)
 * [2018-10-10 - Booking API Update and Feedback](meetings/2018-10-10-booking-api-update-and-feedback.md)
