@@ -2,8 +2,8 @@
 
 ## Future Agendas
 
-* 30th January - Continued discussions on [booking API flow](https://www.openactive.io/open-booking-api/EditorsDraft/live.html)
-* 6th February - Continued discussions on [booking API flow](https://www.openactive.io/open-booking-api/EditorsDraft/live.html)
+* 27th February - Final walkthrough on [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft/live.html)
+* 13th March - Technical Q&A on [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft)
 
 ## Meetings Dial-in Details
 

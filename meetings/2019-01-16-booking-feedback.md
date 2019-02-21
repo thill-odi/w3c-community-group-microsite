@@ -1,6 +1,8 @@
-# 2019-01-16 - Booking Feedback
+# 2019-01-16 - Booking: Walkthrough
 
 ## Summary
+
+Walkthrough of the booking specification for final comments, which uncovered issues around cancellation and refunds.
 
 ## Slides
 
@@ -8,5 +10,5 @@
 
 ## Video
 
-
+{% embed url="https://youtu.be/6woJfHqzWdA" %}
 

@@ -7,11 +7,11 @@
 
 ## Meetings
 
-* [2019-02-13 - Booking Feedback](meetings/2019-02-13-booking-feedback.md)
-* [2019-01-30 - Booking Feedback](meetings/2019-01-30-booking-feedback.md)
-* [2019-01-16 - Booking Feedback](meetings/2019-01-16-booking-feedback.md)
-* [2018-12-05 - Booking Feedback](meetings/2018-12-05-booking-feedback.md)
-* [2018-11-21 - Booking: tax issues](meetings/2018-11-21.md)
+* [2019-02-13 - Booking: Cancellations and Refunds](meetings/2019-02-13-booking-feedback.md)
+* [2019-01-30 - Booking: Cancellations and Refunds](meetings/2019-01-30-booking-feedback.md)
+* [2019-01-16 - Booking: Walkthrough](meetings/2019-01-16-booking-feedback.md)
+* [2018-12-05 - Booking: Tax](meetings/2018-12-05-booking-feedback.md)
+* [2018-11-21 - Booking: Tax](meetings/2018-11-21.md)
 * [2018-11-16 - Activity List Tool](meetings/2018-11-16-activity-list-tool.md)
 * [2018-11-07 - Booking Feedback](meetings/2018-11-07-booking-feedback.md)
 * [2018-10-24 - Accessibility requirements](meetings/2018-10-24-accessibility-requirements.md)
