@@ -6,3 +6,7 @@ We ran through the booking specification at a high level, including checking the
 
 ## Video
 
+{% embed url="https://www.youtube.com/watch?v=hz85pUuDgx8" %}
+
+
+
