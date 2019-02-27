@@ -2,8 +2,15 @@
 
 ## Future Agendas
 
-* 27th February - Final walkthrough on [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft/live.html)
-* 13th March - Technical Q&A on [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft)
+Finalisation Schedule for the [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft/live.html):
+
+* **27 February 2pm - W3C Call** - Overview of remaining issues to check agreement on direction taken \(search "Issue" in the specification\) and other changes made based on feedback
+* **4 March - Open Booking** 1.0CR spec release - Candidate Release of Open Booking spec
+* **13 March 2pm - W3C Call -** Full technical walkthrough, designed for developers looking to implement the specification
+* **27 March 2pm** **- W3C Call -** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
+* **10 April 2pm - W3C Call -** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
+* **12 April - Open Booking 1.0 submitted for release -** Final 1.0 released with request for community to sign-off final version \(and to speak now or forever hold your peace\)
+* **26 April - W3C CG Ratification via "Final Report" -** Final 1.0 published, assuming no objections
 
 ## Meetings Dial-in Details
 
