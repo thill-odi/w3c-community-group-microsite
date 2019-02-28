@@ -12,7 +12,7 @@ As a result of the call we:
 
 ## Video
 
-{% embed url="https://www.youtube.com/watch?v=hz85pUuDgx8" %}
+{% embed url="https://youtu.be/hz85pUuDgx8" %}
 
 
 
