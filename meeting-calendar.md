@@ -4,7 +4,6 @@
 
 Finalisation Schedule for the [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft/live.html):
 
-* **4 March - Open Booking 1.0CR spec release** **-** Candidate Release of Open Booking spec
 * **13 March 2pm - W3C Call -** Full technical walkthrough, designed for developers looking to implement the specification
 * **27 March 2pm** **- W3C Call -** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
 * **2 April 12-5pm -** [**Booking Finalisation Workshop**](https://www.eventbrite.co.uk/e/openactive-booking-finalisation-workshop-tickets-57983104025) ****- An executive presentation of the business-level capabilities of the [Open Booking specification](https://www.openactive.io/open-booking-api/EditorsDraft), including its features and limitations, the decisions that have been taken by the community to date, and a final opportunity for feedback.
