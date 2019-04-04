@@ -16,7 +16,7 @@ Coming soon
 
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
-| 1 | 0 | **Introduction and Agenda** | Nick Evans, Technical Engagement Lead, Open Data Institute |
+| 1 | 0:00 | **Introduction and Agenda** | Nick Evans, Technical Engagement Lead, Open Data Institute |
 | 8 | 7:30 | **OpenActive Background** | Izy Champion, Data and Innovation Manager, Sport England |
 | 20 | 16:00 | **OpenActive and Open Data Introduction** | Richard Norris, Programme Manager, Open Data Institute |
 | 27 | 25:10 | **Open Data Q&A** | Richard Norris and Nick Evans |
@@ -29,7 +29,7 @@ Coming soon
 
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
-| 37 | 0 | **Developing standards for OpenActive** | Leigh Dodds, Director of Advisory, Open Data Institute |
+| 37 | 0:00 | **Developing standards for OpenActive** | Leigh Dodds, Director of Advisory, Open Data Institute |
 | 42 | 9:00 | **Booking Finalisation Introduction and Scope** | Nick Evans |
 | 49 | 13:10 | **Key Actors** | Nick Evans |
 | 50 | 17:48 | **Booking Flow and Leasing** | Nick Evans |
