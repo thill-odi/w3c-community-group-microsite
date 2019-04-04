@@ -12,6 +12,8 @@ Coming soon
 
 ### Part 1: Slides 1-36: **Introduction and OpenActive Overview**
 
+{% embed url="https://youtu.be/HHxNq5XR-6U" %}
+
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
 | 1 | 0 | **Introduction and Agenda** | Nick Evans, Technical Engagement Lead, Open Data Institute |
@@ -21,9 +23,9 @@ Coming soon
 | 28 | 41:30 | **Open Booking Introduction** | Richard Norris |
 | 35 | 46:20 | **Why now?** | Sean Maguire, Managing Director, Legend Club Management Systems |
 
-{% embed url="https://youtu.be/HHxNq5XR-6U" %}
-
 ### Part 2: Slides 37-68: **Booking Finalisation Part A**
+
+{% embed url="https://youtu.be/9JwXulzy4mM" %}
 
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
@@ -37,9 +39,9 @@ Coming soon
 | 65 | 50:30 | **Tax and Tax Exemption** | Nick Evans |
 | 68 | 56:00 | **Open Booking Q&A 1** | Nick Evans and Richard Norris |
 
-{% embed url="https://youtu.be/9JwXulzy4mM" %}
-
 ### Part 3: Slides 69-90: **Booking Finalisation Part B**
+
+{% embed url="https://youtu.be/jY-cm0YNlSc" %}
 
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
@@ -51,8 +53,6 @@ Coming soon
 | 81 | 14:46 | **Dynamic Pricing** | Nick Evans |
 | 84 | 20:45 | **Open Booking Q&A 2** | Nick Evans and Richard Norris |
 | 86 | 46:24 | **What's next?**  | Nick Evans |
-
-{% embed url="https://youtu.be/jY-cm0YNlSc" %}
 
 
 
