@@ -2,7 +2,11 @@
 
 ## Summary
 
-Coming soon
+We ran through the following feedback points around the [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft) in detail:
+
+* Access control
+* Reconciliation 
+* Refund behaviour
 
 ## Slides
 

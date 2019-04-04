@@ -2,7 +2,9 @@
 
 ## Summary
 
-Coming soon
+With the Open Booking Specification nearing finalisation this workshop offered a presentation of its features and limitations, the decisions that have been taken by the community to date, and provided a final opportunity for feedback.
+
+Delegates attended both in person and via live stream, and included executive representation from major booking systems, brokers, leisure operators, and other activity providers.
 
 ## Slides
 
