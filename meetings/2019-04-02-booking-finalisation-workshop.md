@@ -45,7 +45,7 @@ Coming soon
 
 | **Slide** | Video | Section Title | Speaker |
 | :--- | :--- | :--- | :--- |
-| 70 | 0:55 | **Guest Checkout** | Leigh Dodds, Director of Advisory, Open Data Institute |
+| 70 | 0:55 | **Guest Checkout** | Nick Evans |
 | 73 | 3:30 | **Marketing Preferences** | Nick Evans |
 | 75 | 6:26 | **Access Control** | Nick Evans |
 | 77 | 8:28 | **Cancellation** | Nick Evans |
