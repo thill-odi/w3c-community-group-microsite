@@ -13,7 +13,7 @@ The following changes will be made to the Open Booking specification as a result
 * Add guidance for `attendeeInstructions` to be sent as part of the booking confirmation from the Broker to the Customer, so that information about how local car parking works, locker tokens, etc are guaranteed to be communicated.
 * Clarify financial data / reconciliation requirements including cost centre.
 
-Additionally we created the following GitHub issues for further discussion:
+Additionally we created the following GitHub issue for further discussion:
 
 * [Attendee detail capture](https://github.com/openactive/open-booking-api/issues/107)
 
