@@ -6,6 +6,17 @@ With the Open Booking Specification nearing finalisation this workshop offered a
 
 Delegates attended both in person and via live stream, and included executive representation from major booking systems, brokers, leisure operators, and other activity providers.
 
+The following changes will be made to the Open Booking specification as a result of the workshop:
+
+* Change the language in the logical steps from "Register" to "Identify", to clarify that registration is not mandatory.
+* Add a property that can be used by the Broker to clearly display free text restrictions such as "2:1 adult/child ratio", in addition to improved guidance for the Broker to prominently communicate existing age and gender constraints in advance of the booking being confirmed.
+* Add guidance for `attendeeInstructions` to be sent as part of the booking confirmation from the Broker to the Customer, so that information about how local car parking works, locker tokens, etc are guaranteed to be communicated.
+* Clarify financial data / reconciliation requirements including cost centre.
+
+Additionally we created the following GitHub issues for further discussion:
+
+* [Attendee detail capture](https://github.com/openactive/open-booking-api/issues/107)
+
 ## Slides
 
 {% embed url="https://docs.google.com/presentation/d/1obGCA0BhYYzO92A2WU7fp0aH3qu3GUK0kxZIwdkVoTc/edit" %}
