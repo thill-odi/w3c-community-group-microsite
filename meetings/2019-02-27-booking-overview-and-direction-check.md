@@ -7,8 +7,8 @@ We ran through the [booking specification](https://www.openactive.io/open-bookin
 As a result of the call we:
 
 * Clarified the spec regarding the error raised when attempting to book a non-"bookable" opportunity.
-* Amended the spec to make cancelling multiple items atomic, with an outstanding question regarding restrictions \(https://github.com/openactive/open-booking-api/issues/102\)
-* Raised and linked an additional issue: https://github.com/openactive/open-booking-api/issues/103
+* Amended the spec to make cancelling multiple items atomic, with an outstanding question regarding restrictions \([https://github.com/openactive/open-booking-api/issues/102](https://github.com/openactive/open-booking-api/issues/102)\)
+* Raised and linked an additional issue: [https://github.com/openactive/open-booking-api/issues/103](https://github.com/openactive/open-booking-api/issues/103)
 
 ## Video
 
