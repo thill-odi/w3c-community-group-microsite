@@ -10,7 +10,7 @@ This discussion takes place in our [W3C Community Group](https://www.w3.org/comm
 
 ## How to join the group 
 
-Click the link below, and click "**JOIN OR LEAVE THIS GROUP**" halfway down the right hand side of the page:
+\*\*\*\*[**First click here**](https://www.w3.org/community/openactive/), then click "**JOIN OR LEAVE THIS GROUP**" halfway down the right hand side of the page.
 
 Once you have done this be sure to attend our meetings and engage in our GitHub discussions:
 
