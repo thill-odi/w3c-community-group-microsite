@@ -5,11 +5,12 @@
 Finalisation Schedule for the [booking specification](https://www.openactive.io/open-booking-api/EditorsDraft/live.html):
 
 * **13 March 2pm -** [**W3C Call**](meetings/2019-03-13-booking-overview-and-feedback.md) **-** Full technical walkthrough, designed for developers looking to implement the specification
-* **27 March 2pm** **- W3C Call -** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
-* **2 April 12-5pm -** [**Booking Finalisation Workshop**](https://www.eventbrite.co.uk/e/openactive-booking-finalisation-workshop-tickets-57983104025) ****- An executive presentation of the business-level capabilities of the [Open Booking specification](https://www.openactive.io/open-booking-api/EditorsDraft), including its features and limitations, the decisions that have been taken by the community to date, and a final opportunity for feedback.
-* **10 April 2pm - W3C Call -** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
-* **12 April - Open Booking 1.0 submitted for release -** Final 1.0 released with request for community to sign-off final version \(and to speak now or forever hold your peace\)
-* **26 April - W3C CG Ratification via "Final Report" -** Final 1.0 published, assuming no objections
+* **27 March 2pm** **-** [**W3C Call**](https://w3c.openactive.io/meetings/2019-03-27-booking-overview-and-feedback) **-** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
+* **2 April 12-5pm -** [**Booking Finalisation Workshop**](https://w3c.openactive.io/meetings/2019-04-02-booking-finalisation-workshop) ****- An executive presentation of the business-level capabilities of the [Open Booking specification](https://www.openactive.io/open-booking-api/EditorsDraft), including its features and limitations, the decisions that have been taken by the community to date, and a final opportunity for feedback.
+* **10 April 2pm -** [**W3C Call**](https://w3c.openactive.io/meetings/2019-04-10-booking-workshop-followup) **-** Q&A for developers who are working through designs for implementation, and discussion of any revisions based on feedback
+* **17 April - Open Booking 1.0 submitted for release -** Final 1.0 released with request for community to sign-off final version \(and to speak now or forever hold your peace\)
+* **24 April 2pm - W3C Call -** Standards process refresh and roadmap
+* **1 May - W3C CG Ratification via "Final Report"** - Final 1.0 published, assuming no objections
 
 ## Meetings Dial-in Details
 
