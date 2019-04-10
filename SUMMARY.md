@@ -7,6 +7,7 @@
 
 ## Meetings
 
+* [2019-04-10 - Booking: Workshop followup](meetings/2019-04-10-booking-workshop-followup.md)
 * [2019-04-02 - Booking Finalisation Workshop](meetings/2019-04-02-booking-finalisation-workshop.md)
 * [2019-03-27 - Booking: Overview and feedback](meetings/2019-03-27-booking-overview-and-feedback.md)
 * [2019-03-13 - Booking: Overview and feedback](meetings/2019-03-13-booking-overview-and-feedback.md)
