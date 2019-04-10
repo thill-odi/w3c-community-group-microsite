@@ -18,3 +18,5 @@ The [OpenActive model validator](http://validator.openactive.io) will be updated
 
 ## Video
 
+{% embed url="https://youtu.be/tYFVM2TSb8Q" %}
+
